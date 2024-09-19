@@ -27,12 +27,6 @@ const CVCreative = () => {
           <h1 className="text-5xl font-bold mb-2 relative z-10">Fabio Cerundolo</h1>
           <p className="text-xl text-purple-200 relative z-10">Tecnico Informatico</p>
         </header>
-    <div>
-      <Helmet>
-        <title>Nuovo Titolo della Scheda</title>
-      </Helmet>
-      <h1>Contenuto della pagina</h1>
-    </div>
         <main className="bg-white shadow-xl rounded-b-lg p-8 relative">
           <div className="absolute top-0 right-0 w-32 h-32 bg-yellow-400 rounded-full -mt-16 -mr-16 flex items-center justify-center">
             <Code className="w-16 h-16 text-purple-700" />
