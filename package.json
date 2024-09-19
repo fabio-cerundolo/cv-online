@@ -14,7 +14,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://fabio-cerundolo.github.io/cv-online",
+  "homepage": "https://github.com/fabio-cerundolo/cv-online.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
