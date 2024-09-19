@@ -34,7 +34,7 @@ const CVCreative = () => {
           </div>
           <div>
             <Helmet>
-              <title>Nuovo Titolo della Scheda</title>
+              <title>CV Fabio Cerundolo</title>
             </Helmet>
             <h1>Contenuto della pagina</h1>
           </div>
