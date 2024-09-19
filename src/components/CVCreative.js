@@ -36,7 +36,7 @@ const CVCreative = () => {
             <Helmet>
               <title>CV Fabio Cerundolo</title>
             </Helmet>
-            <h1>Contenuto della pagina</h1>
+            
           </div>
           <section className="mb-8">
             <h2 className="text-2xl font-bold text-purple-700 mb-4">Profilo</h2>
