@@ -1,6 +1,7 @@
 import React, { useRef } from 'react';
 import { User, Phone, Mail, MapPin, Calendar, Book, Award, Briefcase, Code, Server, Package, Download } from 'lucide-react';
 import html2pdf from 'html2pdf.js';
+import { Helmet } from "react-helmet";
 
 const CVCreative = () => {
   const cvRef = useRef(null);
@@ -31,7 +32,12 @@ const CVCreative = () => {
           <div className="absolute top-0 right-0 w-32 h-32 bg-yellow-400 rounded-full -mt-16 -mr-16 flex items-center justify-center">
             <Code className="w-16 h-16 text-purple-700" />
           </div>
-
+          <div>
+            <Helmet>
+              <title>Nuovo Titolo della Scheda</title>
+            </Helmet>
+            <h1>Contenuto della pagina</h1>
+          </div>
           <section className="mb-8">
             <h2 className="text-2xl font-bold text-purple-700 mb-4">Profilo</h2>
             <p className="text-gray-700 leading-relaxed">
