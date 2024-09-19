@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cv-online/static/css/main.afcf2592.css",
-    "main.js": "/cv-online/static/js/main.e1fb765b.js",
-    "static/js/213.7b94929b.chunk.js": "/cv-online/static/js/213.7b94929b.chunk.js",
-    "static/js/732.96c100fa.chunk.js": "/cv-online/static/js/732.96c100fa.chunk.js",
-    "static/js/453.4f7873f1.chunk.js": "/cv-online/static/js/453.4f7873f1.chunk.js",
-    "index.html": "/cv-online/index.html",
-    "main.afcf2592.css.map": "/cv-online/static/css/main.afcf2592.css.map",
-    "main.e1fb765b.js.map": "/cv-online/static/js/main.e1fb765b.js.map",
-    "213.7b94929b.chunk.js.map": "/cv-online/static/js/213.7b94929b.chunk.js.map",
-    "732.96c100fa.chunk.js.map": "/cv-online/static/js/732.96c100fa.chunk.js.map",
-    "453.4f7873f1.chunk.js.map": "/cv-online/static/js/453.4f7873f1.chunk.js.map"
+    "main.css": "/fabio-cerundolo/cv-online.git/static/css/main.afcf2592.css",
+    "main.js": "/fabio-cerundolo/cv-online.git/static/js/main.d85c84f4.js",
+    "static/js/213.7b94929b.chunk.js": "/fabio-cerundolo/cv-online.git/static/js/213.7b94929b.chunk.js",
+    "static/js/732.96c100fa.chunk.js": "/fabio-cerundolo/cv-online.git/static/js/732.96c100fa.chunk.js",
+    "static/js/453.4f7873f1.chunk.js": "/fabio-cerundolo/cv-online.git/static/js/453.4f7873f1.chunk.js",
+    "index.html": "/fabio-cerundolo/cv-online.git/index.html",
+    "main.afcf2592.css.map": "/fabio-cerundolo/cv-online.git/static/css/main.afcf2592.css.map",
+    "main.d85c84f4.js.map": "/fabio-cerundolo/cv-online.git/static/js/main.d85c84f4.js.map",
+    "213.7b94929b.chunk.js.map": "/fabio-cerundolo/cv-online.git/static/js/213.7b94929b.chunk.js.map",
+    "732.96c100fa.chunk.js.map": "/fabio-cerundolo/cv-online.git/static/js/732.96c100fa.chunk.js.map",
+    "453.4f7873f1.chunk.js.map": "/fabio-cerundolo/cv-online.git/static/js/453.4f7873f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afcf2592.css",
-    "static/js/main.e1fb765b.js"
+    "static/js/main.d85c84f4.js"
   ]
 }
