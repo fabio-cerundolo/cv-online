@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/fabio-cerundolo/cv-online/static/css/main.afcf2592.css",
-    "main.js": "/fabio-cerundolo/cv-online/static/js/main.308624c8.js",
-    "static/js/213.7b94929b.chunk.js": "/fabio-cerundolo/cv-online/static/js/213.7b94929b.chunk.js",
-    "static/js/732.96c100fa.chunk.js": "/fabio-cerundolo/cv-online/static/js/732.96c100fa.chunk.js",
-    "static/js/453.4f7873f1.chunk.js": "/fabio-cerundolo/cv-online/static/js/453.4f7873f1.chunk.js",
-    "index.html": "/fabio-cerundolo/cv-online/index.html",
-    "main.afcf2592.css.map": "/fabio-cerundolo/cv-online/static/css/main.afcf2592.css.map",
-    "main.308624c8.js.map": "/fabio-cerundolo/cv-online/static/js/main.308624c8.js.map",
-    "213.7b94929b.chunk.js.map": "/fabio-cerundolo/cv-online/static/js/213.7b94929b.chunk.js.map",
-    "732.96c100fa.chunk.js.map": "/fabio-cerundolo/cv-online/static/js/732.96c100fa.chunk.js.map",
-    "453.4f7873f1.chunk.js.map": "/fabio-cerundolo/cv-online/static/js/453.4f7873f1.chunk.js.map"
+    "main.css": "/github.com/cv-online/static/css/main.afcf2592.css",
+    "main.js": "/github.com/cv-online/static/js/main.db64c7b7.js",
+    "static/js/213.7b94929b.chunk.js": "/github.com/cv-online/static/js/213.7b94929b.chunk.js",
+    "static/js/732.96c100fa.chunk.js": "/github.com/cv-online/static/js/732.96c100fa.chunk.js",
+    "static/js/453.4f7873f1.chunk.js": "/github.com/cv-online/static/js/453.4f7873f1.chunk.js",
+    "index.html": "/github.com/cv-online/index.html",
+    "main.afcf2592.css.map": "/github.com/cv-online/static/css/main.afcf2592.css.map",
+    "main.db64c7b7.js.map": "/github.com/cv-online/static/js/main.db64c7b7.js.map",
+    "213.7b94929b.chunk.js.map": "/github.com/cv-online/static/js/213.7b94929b.chunk.js.map",
+    "732.96c100fa.chunk.js.map": "/github.com/cv-online/static/js/732.96c100fa.chunk.js.map",
+    "453.4f7873f1.chunk.js.map": "/github.com/cv-online/static/js/453.4f7873f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afcf2592.css",
-    "static/js/main.308624c8.js"
+    "static/js/main.db64c7b7.js"
   ]
 }
