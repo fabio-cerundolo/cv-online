@@ -6,7 +6,6 @@ const CVCreative = () => {
   const cvRef = useRef(null);
 
   const handleDownload = () => {
-    document.title = "CV Fabio Cerundolo";
     const element = cvRef.current;
     const opt = {
       margin:       1,
